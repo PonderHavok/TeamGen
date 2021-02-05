@@ -13,10 +13,11 @@
   5. [Contact Information](#contactinformation)
 
   # Description 
-  This project is designed to create a Readme File via Node.js
+  This project is designed to create a software engineering team generator command line application via Node.js
   # Installation Instructions
   This project is run in Node.js. To install, download the files from the repository and run "npm i" from the command line to install the dependencies.
-  ![Screenshot](./assets/screenshot.png)
+  ![Screenshot](./assets/Screenshot (93).png)
+  ![Screenshot](./assets/Screenshot (94).png)
   <br>
   **[Click here to Watch an Instructional Video](https://drive.google.com/file/d/1ia5RZbL1UwIKxL3QfzTFbbcaegYTra-e/view)**
   # Contribution Guidelines
